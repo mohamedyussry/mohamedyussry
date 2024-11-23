@@ -1,7 +1,7 @@
-<html><head><base href="https://github.com">
+<!DOCTYPE html><html><head><base href="https://github.com">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mohammad's Portfolio | محفظة محمد</title>
+<title>Mohamed yussry web develpor</title>
 <style>
 :root {
   --primary: #2563eb;
@@ -207,6 +207,55 @@ nav {
   transform: translateY(-2px);
 }
 
+/* Professional Story Styles */
+.professional-story {
+  background: var(--light);
+  padding: 2rem;
+  border-radius: 8px;
+  margin-top: 2rem;
+}
+
+.story-intro {
+  font-size: 1.1rem;
+  color: var(--secondary);
+  margin-bottom: 1.5rem;
+}
+
+.timeline-item {
+  margin-bottom: 2rem;
+  padding-left: 1.5rem;
+  border-left: 3px solid var(--primary);
+  position: relative;
+}
+
+.timeline-item::before {
+  content: '•';
+  position: absolute;
+  left: -1.5rem;
+  top: 0;
+  color: var(--primary);
+  font-size: 2rem;
+}
+
+.timeline-item h3 {
+  color: var(--primary);
+  margin-bottom: 0.5rem;
+}
+
+.timeline-item p {
+  color: var(--secondary);
+}
+
+@media (max-width: 768px) {
+  .timeline-item {
+    padding-left: 1rem;
+  }
+  
+  .timeline-item::before {
+    left: -1rem;
+  }
+}
+
 /* Skills Section */
 .skills-container {
   display: grid;
@@ -249,7 +298,6 @@ nav {
   background: linear-gradient(90deg, var(--primary), var(--primary-dark));
   border-radius: 4px;
   transition: width 1s cubic-bezier(0.4, 0, 0.2, 1);
-  position: relative;
 }
 
 .skill-progress::after {
@@ -367,7 +415,6 @@ nav {
   border-radius: 4px;
   text-decoration: none;
   transition: var(--transition);
-  font-weight: 500;
 }
 
 .demo-btn {
@@ -806,13 +853,6 @@ nav {
   position: relative;
 }
 
-.experience-section ul ul li:before {
-  content: "▹";
-  color: var(--primary);
-  position: absolute;
-  left: -1rem;
-}
-
 .experience-section > ul > li {
   font-weight: 600;
   color: var(--dark);
@@ -841,7 +881,62 @@ nav {
 <body>
 <nav>
   <div class="container nav-content">
-    <div class="logo">Mohammad</div>
+    <div class="logo">
+      <style>
+        .logo {
+          display: flex;
+          align-items: center;
+          gap: 0.5rem;
+          font-size: 1.5rem;
+          font-weight: bold;
+          color: var(--primary);
+          text-decoration: none;
+          transition: transform 0.3s ease;
+        }
+        
+        .logo:hover {
+          transform: scale(1.05);
+        }
+        
+        .logo-icon {
+          width: 32px;
+          height: 32px;
+        }
+        
+        .logo-text {
+          font-family: 'Cairo', sans-serif;
+          background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          position: relative;
+        }
+        
+        .logo-text::after {
+          content: '';
+          position: absolute;
+          bottom: -2px;
+          left: 0;
+          width: 100%;
+          height: 2px;
+          background: linear-gradient(90deg, var(--primary), transparent);
+          transform: scaleX(0);
+          transform-origin: left;
+          transition: transform 0.3s ease;
+        }
+        
+        .logo:hover .logo-text::after {
+          transform: scaleX(1);
+        }
+      </style>
+      
+      <svg class="logo-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+      </svg>
+      
+      <span class="logo-text">Mohammad</span>
+    </div>
     <div class="nav-links">
       <a href="#home">Home</a>
       <a href="#about">About</a>
@@ -851,219 +946,175 @@ nav {
       <a href="#contact">Contact</a>
     </div>
     <button class="lang-switch" onclick="window.open('https://wa.me/201066211527', '_blank')">
-  WhatsApp Chat
-  <style>
-    /* Add WhatsApp-specific styles */
-    .lang-switch {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      background: #25D366; /* WhatsApp brand color */
-      color: white;
-      border: none;
-      padding: 0.5rem 1rem;
-      border-radius: 4px;
-      cursor: pointer;
-      transition: all 0.3s ease;
-    }
+      WhatsApp Chat
+      <style>
+        /* Add WhatsApp-specific styles */
+        .lang-switch {
+          display: flex;
+          align-items: center;
+          gap: 6px;
+          background: #25D366; /* WhatsApp brand color */
+          color: white;
+          border: none;
+          padding: 0.5rem 1rem;
+          border-radius: 4px;
+          cursor: pointer;
+          transition: all 0.3s ease;
+        }
 
-    .lang-switch:hover {
-      background: #128C7E; /* WhatsApp darker shade */
-      transform: translateY(-2px);
-    }
+        .lang-switch:hover {
+          background: #128C7E; /* WhatsApp darker shade */
+          transform: translateY(-2px);
+        }
 
-    .lang-switch::before {
-      content: '';
-      display: inline-block;
-      width: 16px;
-      height: 16px;
-      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'%3E%3Cpath d='M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.785 23.547l4.513-1.499A11.93 11.93 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm-1.063 15.638l-2.695-2.695-4.97 1.647 1.647-4.97-2.695-2.695c3.137-3.137 8.233-3.137 11.37 0 3.137 3.137 3.137 8.233 0 11.37l-2.657-2.657z'/%3E%3C/svg%3E");
-      background-size: contain;
-      background-repeat: no-repeat;
-    }
-  </style>
-</button>
+        .lang-switch::before {
+          content: '';
+          display: inline-block;
+          width: 16px;
+          height: 16px;
+          background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'%3E%3Cpath d='M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.785 23.547l4.513-1.499A11.93 11.93 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm-1.063 15.638l-2.695-2.695-4.97 1.647 1.647-4.97-2.695-2.695c3.137-3.137 8.233-3.137 11.37 0 3.137 3.137 3.137 8.233 0 11.37l-2.657-2.657z'/%3E%3C/svg%3E");
+          background-size: contain;
+          background-repeat: no-repeat;
+        }
+      </style>
+    </button>
   </div>
 </nav>
 
 <section class="hero" id="home">
+  <div class="hero-3d-background"></div>
   <div class="container hero-content">
     <h1>Creative Web Developer &amp; Designer</h1>
     <p>Transforming ideas into elegant, functional, and user-friendly digital experiences. Specialized in creating bilingual websites that bridge cultures and connect businesses with their audience.</p>
     <a href="#portfolio" class="cta-btn">Explore My Work</a>
-    
-    <!-- Enhanced decorative elements -->
-    <div class="hero-shapes">
-      <!-- Abstract geometric shapes -->
-      <svg class="floating-shape shape-1" viewBox="0 0 100 100">
-        <defs>
-          <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" style="stop-color:#4F46E5;stop-opacity:1"></stop>
-            <stop offset="100%" style="stop-color:#2563EB;stop-opacity:1"></stop>
-          </linearGradient>
-        </defs>
-        <circle cx="50" cy="50" r="45" fill="none" stroke="url(#gradient1)" stroke-width="2">
-          <animate attributeName="r" values="45;47;45" dur="3s" repeatCount="indefinite"></animate>
-        </circle>
-      </svg>
-      
-      <svg class="floating-shape shape-2" viewBox="0 0 100 100">
-        <defs>
-          <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:0.8"></stop>
-            <stop offset="100%" style="stop-color:#1D4ED8;stop-opacity:0.8"></stop>
-          </linearGradient>
-        </defs>
-        <rect x="20" y="20" width="60" height="60" fill="url(#gradient2)" transform="rotate(45 50 50)">
-          <animate attributeName="transform" values="rotate(45 50 50);rotate(405 50 50)" dur="12s" repeatCount="indefinite"></animate>
-        </rect>
-      </svg>
-      
-      <!-- Animated particles -->
-      <div class="particles"></div>
-    </div>
-    
-    <!-- Professional wave animation -->
-    <div class="wave-container">
-      <svg class="wave" viewBox="0 0 1440 320" preserveAspectRatio="none">
-        <path class="wave-path" d="M0,160L48,144C96,128,192,96,288,106.7C384,117,480,171,576,181.3C672,192,768,160,864,144C960,128,1056,128,1152,138.7C1248,149,1344,171,1392,181.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z">
-          <animate attributeName="d" values="M0,160L48,144C96,128,192,96,288,106.7C384,117,480,171,576,181.3C672,192,768,160,864,144C960,128,1056,128,1152,138.7C1248,149,1344,171,1392,181.3L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z;
-                    M0,192L48,181.3C96,171,192,149,288,160C384,171,480,213,576,213.3C672,213,768,171,864,160C960,149,1056,171,1152,181.3C1248,192,1344,192,1392,192L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z" dur="10s" repeatCount="indefinite"></animate>
-        </path>
-      </svg>
-    </div>
   </div>
 
   <style>
     .hero {
       position: relative;
-      background: linear-gradient(135deg, #1E40AF, #1D4ED8);
-      overflow: hidden;
       min-height: 100vh;
-      display: flex;
-      align-items: center;
+      overflow: hidden;
+      background: linear-gradient(135deg, #1E40AF, #1D4ED8);
+      perspective: 1000px;
     }
 
-    .hero::before {
-      content: '';
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-    }
-
-    .hero-content {
-      position: relative;
-      z-index: 2;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 2rem;
-    }
-
-    .hero h1 {
-      font-size: 4rem;
-      font-weight: 800;
-      line-height: 1.2;
-      margin-bottom: 1.5rem;
-      background: linear-gradient(120deg, #fff, #E2E8F0);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      text-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-
-    .hero p {
-      font-size: 1.25rem;
-      line-height: 1.8;
-      color: rgba(255,255,255,0.9);
-      margin-bottom: 2.5rem;
-      text-shadow: 0 1px 2px rgba(0,0,0,0.1);
-    }
-
-    .cta-btn {
-      padding: 1.25rem 2.5rem;
-      font-size: 1.125rem;
-      font-weight: 600;
-      color: #1E40AF;
-      background: #fff;
-      border-radius: 50px;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.1), 0 1px 3px rgba(0,0,0,0.08);
-      transition: all 0.3s ease;
-      text-decoration: none;
-      display: inline-block;
-    }
-
-    .cta-btn:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 6px 12px rgba(0,0,0,0.15), 0 2px 4px rgba(0,0,0,0.12);
-      background: #F8FAFC;
-    }
-
-    .floating-shape {
-      position: absolute;
-      opacity: 0.6;
-      pointer-events: none;
-    }
-
-    .shape-1 {
-      width: 200px;
-      height: 200px;
-      top: 10%;
-      right: 10%;
-      animation: float 8s ease-in-out infinite;
-    }
-
-    .shape-2 {
-      width: 150px;
-      height: 150px;
-      bottom: 15%;
-      left: 10%;
-      animation: float 6s ease-in-out infinite reverse;
-    }
-
-    @keyframes float {
-      0%, 100% { transform: translate(0, 0) rotate(0deg); }
-      50% { transform: translate(20px, -20px) rotate(5deg); }
-    }
-
-    .particles {
+    .hero-3d-background {
       position: absolute;
       top: 0;
       left: 0;
       width: 100%;
       height: 100%;
-      background: radial-gradient(circle, rgba(255,255,255,0.1) 1px, transparent 1px);
-      background-size: 50px 50px;
+      transform-style: preserve-3d;
+      animation: rotate3d 20s infinite linear;
     }
 
-    .wave-container {
+    .hero-3d-background::before,
+    .hero-3d-background::after {
+      content: '';
       position: absolute;
-      bottom: 0;
-      left: 0;
-      width: 100%;
-      height: 150px;
-      overflow: hidden;
-    }
-
-    .wave {
       width: 100%;
       height: 100%;
+      background: repeating-linear-gradient(
+        45deg,
+        rgba(255, 255, 255, 0.05) 0px,
+        rgba(255, 255, 255, 0.05) 2px,
+        transparent 2px,
+        transparent 10px
+      );
+      transform: translateZ(-50px) rotateX(60deg);
     }
 
-    .wave-path {
-      fill: rgba(255,255,255,0.05);
+    .hero-3d-background::after {
+      background: repeating-linear-gradient(
+        -45deg,
+        rgba(255, 255, 255, 0.05) 0px,
+        rgba(255, 255, 255, 0.05) 2px,
+        transparent 2px,
+        transparent 10px
+      );
+      transform: translateZ(50px) rotateX(-60deg);
     }
 
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: radial-gradient(
+        circle at center,
+        transparent 0%,
+        rgba(0, 0, 0, 0.3) 100%
+      );
+      z-index: 1;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 2;
+    }
+
+    @keyframes rotate3d {
+      0% {
+        transform: rotateX(10deg) rotateY(0deg);
+      }
+      50% {
+        transform: rotateX(-10deg) rotateY(180deg);
+      }
+      100% {
+        transform: rotateX(10deg) rotateY(360deg);
+      }
+    }
+
+    /* Floating particles effect */
+    .hero::after {
+      content: '';
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background-image: 
+        radial-gradient(circle at 30% 20%, rgba(255,255,255,0.2) 1px, transparent 1px),
+        radial-gradient(circle at 70% 40%, rgba(255,255,255,0.2) 1px, transparent 1px),
+        radial-gradient(circle at 40% 60%, rgba(255,255,255,0.2) 1px, transparent 1px),
+        radial-gradient(circle at 60% 80%, rgba(255,255,255,0.2) 1px, transparent 1px);
+      background-size: 100px 100px;
+      animation: floatParticles 20s infinite linear;
+      z-index: 1;
+    }
+
+    @keyframes floatParticles {
+      0% {
+        background-position: 0 0;
+      }
+      100% {
+        background-position: 100px 100px;
+      }
+    }
+
+    /* Enhance depth perception */
+    .hero-content {
+      transform-style: preserve-3d;
+      animation: contentFloat 6s ease-in-out infinite;
+    }
+
+    @keyframes contentFloat {
+      0%, 100% {
+        transform: translateZ(20px);
+      }
+      50% {
+        transform: translateZ(40px);
+      }
+    }
+
+    /* Responsive adjustments */
     @media (max-width: 768px) {
-      .hero h1 {
-        font-size: clamp(2.5rem, 8vw, 4rem);
+      .hero-3d-background {
+        animation: rotate3d 30s infinite linear;
       }
-
-      .hero p {
-        font-size: 1.125rem;
-      }
-
-      .floating-shape {
-        display: none;
+      
+      .hero-content {
+        animation: contentFloat 4s ease-in-out infinite;
       }
     }
   </style>
@@ -1072,184 +1123,161 @@ nav {
 <section class="about" id="about">
   <div class="container about-container">
     <div class="about-grid">
-  <div class="about-text">
-    <h2 class="reveal-text">About Me</h2>
-    <p class="fade-in">Mohammad Yousry Ahmed</p>
-    <p class="fade-in delayed">Full Stack Web Developer &amp; Mobile App Developer</p>
-    
-    <div class="experience-section slide-in">
-      <h3>Professional Experience</h3>
-      <ul class="animated-list">
-        <li>Frontend Development
-          <ul>
-            <li>React.js - 3 years experience (Advanced)</li>
-            <li>Next.js - 2 years experience (Advanced)</li>
-            <li>Vue.js - 2 years experience (Intermediate)</li>
-            <li>HTML5/CSS3 - 4 years experience (Expert)</li>
-            <li>JavaScript/TypeScript - 4 years experience (Advanced)</li>
-          </ul>
-        </li>
-        <li>Backend Development
-          <ul>
-            <li>Node.js - 3 years experience (Advanced)</li>
-            <li>Express.js - 3 years experience (Advanced)</li>
-            <li>Python - 2 years experience (Intermediate)</li>
-            <li>PHP - 2 years experience (Intermediate)</li>
-          </ul>
-        </li>
-        <li>Mobile Development
-          <ul>
-            <li>React Native - 2 years experience (Advanced)</li>
-            <li>Flutter - 1 year experience (Intermediate)</li>
-          </ul>
-        </li>
-        <li>Database Technologies
-          <ul>
-            <li>MongoDB - 3 years experience (Advanced)</li>
-            <li>MySQL - 3 years experience (Advanced)</li>
-            <li>PostgreSQL - 2 years experience (Intermediate)</li>
-          </ul>
-        </li>
-        <li>DevOps & Tools
-          <ul>
-            <li>Git/GitHub - 4 years experience (Advanced)</li>
-            <li>Docker - 2 years experience (Intermediate)</li>
-            <li>AWS - 2 years experience (Intermediate)</li>
-          </ul>
-        </li>
-      </ul>
-    </div>
+      <div class="about-text">
+        <h2 class="reveal-text">About Me</h2>
+        <p class="fade-in">Mohammad Yousry Ahmed</p>
+        <p class="fade-in delayed">Full Stack Web Developer &amp; Mobile App Developer</p>
 
-    <div class="education-section slide-in">
-      <h3>Education</h3>
-      <p>Bachelor's Degree in Computer Science</p>
-      <p>Faculty of Computer &amp; Information Sciences</p>
-      <p>Zagazig University, 2017-2021</p>
-    </div>
-  </div>
-  
-  <div class="skills-container">
-    <div class="skill-item">
-      <div class="skill-info">
-        <span>HTML/CSS</span>
-        <span>95%</span>
+        <h2 class="reveal-text">My Professional Journey</h2>
+        <div class="professional-story slide-in">
+          <p class="story-intro">My journey with remote work began in 2006 when I was just 16 years old, driven by my passion for technology. It all started with a website called "Geran" that allowed free page creation, and at the time, I didn't even know HTML.</p>
+          
+          <div class="story-timeline">
+            <div class="timeline-item">
+              <h3>Early Beginnings (2006-2010)</h3>
+              <p>Websites were designed using tables, with no concept of responsive design. I was fascinated when I discovered codes, copying and experimenting to see the results - the beginning of my love for this field.</p>
+            </div>
+            
+            <div class="timeline-item">
+              <h3>Forums and First Professional Experience (2010-2013)</h3>
+              <p>I became active in forums like "Tradent", the largest community of developers and designers. I met my first employer, Abdullah Al-Ghamdi, who owned a voice chat website. My first paid task was performing basic SEO work like creating backlinks.</p>
+            </div>
+            
+            <div class="timeline-item">
+              <h3>Professional Growth (2013-2019)</h3>
+              <p>I received my first job offer from a company in Oman at age 21. My first major task was implementing an API integration with Omantel. I proposed adding website design services, which significantly improved the company's business.</p>
+            </div>
+            
+            <div class="timeline-item">
+              <h3>Technology Leadership (2019-Present)</h3>
+              <p>After working with various companies and managing multiple projects across Oman and Saudi Arabia, I now work from home in Egypt. My journey has been marked by continuous learning, innovation, and a persistent passion for technology.</p>
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="skill-bar">
-        <div class="skill-progress" style="width: 95%"></div>
-      </div>
-    </div>
+      
+      <div class="skills-container">
+        <div class="skill-item">
+          <div class="skill-info">
+            <span>HTML/CSS</span>
+            <span>95%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 95%"></div>
+          </div>
+        </div>
 
-    <div class="skill-item">
-      <div class="skill-info">
-        <span>JavaScript</span>
-        <span>90%</span>
-      </div>
-      <div class="skill-bar">
-        <div class="skill-progress" style="width: 90%"></div>
-      </div>
-    </div>
+        <div class="skill-item">
+          <div class="skill-info">
+            <span>JavaScript</span>
+            <span>90%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 90%"></div>
+          </div>
+        </div>
 
-    <div class="skill-item">
-      <div class="skill-info">
-        <span>React.js</span>
-        <span>85%</span>
-      </div>
-      <div class="skill-bar">
-        <div class="skill-progress" style="width: 85%"></div>
-      </div>
-    </div>
+        <div class="skill-item">
+          <div class="skill-info">
+            <span>React.js</span>
+            <span>85%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 85%"></div>
+          </div>
+        </div>
 
-    <div class="skill-item">
-      <div class="skill-info">
-        <span>Next.js</span>
-        <span>80%</span>
-      </div>
-      <div class="skill-bar">
-        <div class="skill-progress" style="width: 80%"></div>
-      </div>
-    </div>
+        <div class="skill-item">
+          <div class="skill-info">
+            <span>Next.js</span>
+            <span>80%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 80%"></div>
+          </div>
+        </div>
 
-    <div class="skill-item">
-      <div class="skill-info">
-        <span>Node.js</span>
-        <span>85%</span>
-      </div>
-      <div class="skill-bar">
-        <div class="skill-progress" style="width: 85%"></div>
-      </div>
-    </div>
+        <div class="skill-item">
+          <div class="skill-info">
+            <span>Node.js</span>
+            <span>85%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 85%"></div>
+          </div>
+        </div>
 
-    <div class="skill-item">
-      <div class="skill-info">
-        <span>Express.js</span>
-        <span>80%</span>
-      </div>
-      <div class="skill-bar">
-        <div class="skill-progress" style="width: 80%"></div>
-      </div>
-    </div>
+        <div class="skill-item">
+          <div class="skill-info">
+            <span>Express.js</span>
+            <span>80%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 80%"></div>
+          </div>
+        </div>
 
-    <div class="skill-item">
-      <div class="skill-info">
-        <span>MongoDB</span>
-        <span>85%</span>
-      </div>
-      <div class="skill-bar">
-        <div class="skill-progress" style="width: 85%"></div>
-      </div>
-    </div>
+        <div class="skill-item">
+          <div class="skill-info">
+            <span>MongoDB</span>
+            <span>85%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 85%"></div>
+          </div>
+        </div>
 
-    <div class="skill-item">
-      <div class="skill-info">
-        <span>MySQL</span>
-        <span>75%</span>
-      </div>
-      <div class="skill-bar">
-        <div class="skill-progress" style="width: 75%"></div>
-      </div>
-    </div>
+        <div class="skill-item">
+          <div class="skill-info">
+            <span>MySQL</span>
+            <span>75%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 75%"></div>
+          </div>
+        </div>
 
-    <div class="skill-item">
-      <div class="skill-info">
-        <span>TypeScript</span>
-        <span>80%</span>
-      </div>
-      <div class="skill-bar">
-        <div class="skill-progress" style="width: 80%"></div>
-      </div>
-    </div>
+        <div class="skill-item">
+          <div class="skill-info">
+            <span>TypeScript</span>
+            <span>80%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 80%"></div>
+          </div>
+        </div>
 
-    <div class="skill-item">
-      <div class="skill-info">
-        <span>React Native</span>
-        <span>75%</span>
-      </div>
-      <div class="skill-bar">
-        <div class="skill-progress" style="width: 75%"></div>
-      </div>
-    </div>
+        <div class="skill-item">
+          <div class="skill-info">
+            <span>React Native</span>
+            <span>75%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 75%"></div>
+          </div>
+        </div>
 
-    <div class="skill-item">
-      <div class="skill-info">
-        <span>Git</span>
-        <span>90%</span>
-      </div>
-      <div class="skill-bar">
-        <div class="skill-progress" style="width: 90%"></div>
-      </div>
-    </div>
+        <div class="skill-item">
+          <div class="skill-info">
+            <span>Git</span>
+            <span>90%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 90%"></div>
+          </div>
+        </div>
 
-    <div class="skill-item">
-      <div class="skill-info">
-        <span>REST APIs</span>
-        <span>85%</span>
-      </div>
-      <div class="skill-bar">
-        <div class="skill-progress" style="width: 85%"></div>
+        <div class="skill-item">
+          <div class="skill-info">
+            <span>REST APIs</span>
+            <span>85%</span>
+          </div>
+          <div class="skill-bar">
+            <div class="skill-progress" style="width: 85%"></div>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
-</div>
   </div>
 
   <style>
@@ -1412,47 +1440,163 @@ nav {
     <h2 class="section-title">Featured Projects</h2>
     <div class="portfolio-grid">
       <article class="project-card">
-        <div class="project-image" style="background-image: url('https://example.com/ecommerce-preview.jpg')">
+        <div class="project-image" style="background-image: url('/screenshot-ushi-ae.com-2024.07.12-17_27_34.png')">
           <div class="project-overlay">
             <div class="project-buttons">
-              <a href="https://example.com/demo/ecommerce" class="project-btn demo-btn">Live Demo</a>
-              <a href="https://github.com/username/ecommerce" class="project-btn code-btn">Code</a>
+              <a href="https://ushi-ae.com" class="project-btn demo-btn" target="_blank">Live Website</a>
             </div>
           </div>
         </div>
         <div class="project-details">
-          <h3 class="project-title">E-Commerce Platform</h3>
-          <p class="project-description">A full-featured e-commerce platform with React, Node.js, and MongoDB. Includes payment integration and admin dashboard.</p>
+          <h3 class="project-title">USHI E-commerce Platform</h3>
+          <p class="project-description">A sophisticated e-commerce website for USHI, featuring a curated collection of women's fashion accessories and beauty products with a minimalist and elegant design.</p>
         </div>
       </article>
 
       <article class="project-card">
-        <div class="project-image" style="background-image: url('https://example.com/dashboard-preview.jpg')">
-          <div class="project-overlay">
+        <div class="project-image">
+          <div style="background-image: url('/screenshot-mohamedyussry_github_io-2024_11_22-14_39_13.png'); background-size: cover; background-position: center; height: 100%; opacity: 0.9;" class="project-overlay">
             <div class="project-buttons">
-              <a href="https://example.com/demo/dashboard" class="project-btn demo-btn">Live Demo</a>
-              <a href="https://github.com/username/dashboard" class="project-btn code-btn">Code</a>
+              <a href="https://mohamedyussry.github.io/Advanced-Text-to-Image-Generator-free/" class="project-btn demo-btn" target="_blank">Live Demo</a>
+              <a href="https://github.com/mohamedyussry/Advanced-Text-to-Image-Generator-free" class="project-btn code-btn" target="_blank">Code</a>
             </div>
           </div>
         </div>
         <div class="project-details">
-          <h3 class="project-title">Analytics Dashboard</h3>
-          <p class="project-description">Real-time analytics dashboard built with Vue.js and D3.js. Features responsive design and dynamic data visualization.</p>
+          <h3 class="project-title">Advanced Text-to-Image Generator</h3>
+          <p class="project-description">An AI-powered text-to-image generation tool that creates stunning visuals from textual descriptions. Built with modern web technologies and AI integration.</p>
         </div>
       </article>
 
       <article class="project-card">
-        <div class="project-image" style="background-image: url('https://example.com/booking-preview.jpg')">
+        <div class="project-image" style="background-image: url('/screenshot-speronishoes.com-2024.07.13-03_22_46.png')">
           <div class="project-overlay">
             <div class="project-buttons">
-              <a href="https://example.com/demo/booking" class="project-btn demo-btn">Live Demo</a>
-              <a href="https://github.com/username/booking" class="project-btn code-btn">Code</a>
+              <a href="https://speronishoes.com/" class="project-btn demo-btn" target="_blank">Live Website</a>
             </div>
           </div>
         </div>
         <div class="project-details">
-          <h3 class="project-title">Booking System</h3>
-          <p class="project-description">Online booking platform with React Native. Includes real-time availability and payment processing.</p>
+          <h3 class="project-title">Speronishoes E-commerce Platform</h3>
+          <p class="project-description">A comprehensive e-commerce website for Speronishoes, featuring responsive design, product catalog, and smooth user experience.</p>
+        </div>
+      </article>
+
+      <article class="project-card">
+        <div class="project-image" style="background-image: url('/screenshot-www.omanbeauties.com-2024.04.25-03_06_45.png')">
+          <div class="project-overlay">
+            <div class="project-buttons">
+              <a href="https://www.omanbeauties.com/" class="project-btn demo-btn" target="_blank">Live Website</a>
+            </div>
+          </div>
+        </div>
+        <div class="project-details">
+          <h3 class="project-title">Oman Beauties Platform</h3>
+          <p class="project-description">A sophisticated e-commerce and community platform showcasing beauty products, services, and cultural beauty insights from Oman, designed to empower and connect beauty enthusiasts.</p>
+        </div>
+      </article>
+
+      <article class="project-card">
+        <div class="project-image" style="background-image: url('/screenshot-jooolybeauty_com-2024_11_23-06_07_07.png')">
+          <div class="project-overlay">
+            <div class="project-buttons">
+              <a href="https://jooolybeauty.com/" class="project-btn demo-btn" target="_blank">Live Website</a>
+            </div>
+          </div>
+        </div>
+        <div class="project-details">
+          <h3 class="project-title">Jooly Beauty Platform</h3>
+          <p class="project-description">A sleek and modern e-commerce website for a beauty brand, showcasing a curated collection of cosmetic products with an elegant and user-friendly design.</p>
+        </div>
+      </article>
+
+      <article class="project-card">
+        <div class="project-image" style="background-image: url('/screenshot-zahranalharasiomanisweets_com-2024_11_23-04_51_44.png')">
+          <div class="project-overlay">
+            <div class="project-buttons">
+              <a href="https://zahranalharasiomanisweets.com/" class="project-btn demo-btn" target="_blank">Live Website</a>
+              <a href="https://github.com/username/zahran-omani-sweets" class="project-btn code-btn" target="_blank">Code</a>
+            </div>
+          </div>
+        </div>
+        <div class="project-details">
+          <h3 class="project-title">Zahran Al-Harrasi Omani Sweets</h3>
+          <p class="project-description">An elegant e-commerce platform showcasing traditional Omani confectionery, featuring a responsive design and culturally rich presentation of authentic sweets.</p>
+        </div>
+      </article>
+
+      <article class="project-card">
+  <div class="project-image" style="background-image: url('https://photoshootbyamna.com/screenshot-photoshootbyamna_com.png')">
+    <div class="project-overlay" style="background-image: url('path-to-photoshoot-portfolio-screenshot.png'); background-size: cover; background-position: center;">
+  <div class="project-buttons">
+    <a href="https://photoshootbyamna.com" class="project-btn demo-btn" target="_blank">Live Website</a>
+    <a href="https://github.com/mohamedyussry/photoshoot-portfolio" class="project-btn code-btn" target="_blank">Code</a>
+  </div>
+</div>
+  </div>
+  <div class="project-details">
+    <h3 class="project-title">Photography Portfolio Website</h3>
+    <p class="project-description">A stunning, responsive portfolio website for a professional photographer, showcasing high-quality image galleries, client testimonials, and a modern, elegant design that highlights visual storytelling.</p>
+  </div>
+</article>
+
+      <article class="project-card">
+        <div class="project-image" style="background-image: url('/path-to-crm-platform-screenshot.png')">
+          <div class="project-overlay">
+            <div class="project-buttons">
+              <a href="https://customer-management-system.netlify.app" class="project-btn demo-btn" target="_blank">Live Demo</a>
+              <a href="https://github.com/mohamedyussry/crm-platform" class="project-btn code-btn" target="_blank">Code</a>
+            </div>
+          </div>
+        </div>
+        <div class="project-details">
+          <h3 class="project-title">Customer Management System</h3>
+          <p class="project-description">A robust CRM platform with lead tracking, communication logs, sales pipeline management, and integrated reporting tools built with Next.js and TypeScript.</p>
+        </div>
+      </article>
+
+      <article class="project-card">
+        <div class="project-image" style="background-image: url('/path-to-booking-platform-screenshot.png')">
+          <div class="project-overlay">
+            <div class="project-buttons">
+              <a href="https://service-booking-platform.vercel.app" class="project-btn demo-btn" target="_blank">Live Demo</a>
+              <a href="https://github.com/mohamedyussry/service-booking-app" class="project-btn code-btn" target="_blank">Code</a>
+            </div>
+          </div>
+        </div>
+        <div class="project-details">
+          <h3 class="project-title">Service Booking Platform</h3>
+          <p class="project-description">A comprehensive online booking system for service providers, featuring real-time availability, payment integration, and user authentication using React and Node.js.</p>
+        </div>
+      </article>
+
+      <article class="project-card">
+        <div class="project-image" style="background-image: url('/path-to-ai-chatbot-screenshot.png')">
+          <div class="project-overlay">
+            <div class="project-buttons">
+              <a href="https://ai-multilingual-chatbot.vercel.app" class="project-btn demo-btn" target="_blank">Live Demo</a>
+              <a href="https://github.com/mohamedyussry/ai-chatbot" class="project-btn code-btn" target="_blank">Code</a>
+            </div>
+          </div>
+        </div>
+        <div class="project-details">
+          <h3 class="project-title">Multilingual AI Chatbot</h3>
+          <p class="project-description">An advanced AI-powered chatbot supporting multiple languages, with context-aware responses and integration with OpenAI's GPT models using React and Express.js.</p>
+        </div>
+      </article>
+
+      <article class="project-card">
+        <div class="project-image" style="background-image: url('/path-to-elearning-platform-screenshot.png')">
+          <div class="project-overlay">
+            <div class="project-buttons">
+              <a href="https://online-learning-platform.netlify.app" class="project-btn demo-btn" target="_blank">Live Demo</a>
+              <a href="https://github.com/mohamedyussry/elearning-platform" class="project-btn code-btn" target="_blank">Code</a>
+            </div>
+          </div>
+        </div>
+        <div class="project-details">
+          <h3 class="project-title">Online Learning Platform</h3>
+          <p class="project-description">A comprehensive e-learning platform with course management, video lessons, interactive quizzes, and progress tracking, developed using Next.js and GraphQL.</p>
         </div>
       </article>
     </div>
@@ -1655,6 +1799,10 @@ function toggleLanguage() {
             description: "Real-time analytics dashboard built with Vue.js and D3.js. Features responsive design and dynamic data visualization."
           },
           {
+            title: "Advanced Text-to-Image Generator",
+            description: "An AI-powered text-to-image generation tool that creates stunning visuals from textual descriptions. Built with modern web technologies and AI integration."
+          },
+          {
             title: "Booking System",
             description: "Online booking platform with React Native. Includes real-time availability and payment processing."
           }
@@ -1737,6 +1885,10 @@ function toggleLanguage() {
           {
             title: "لوحة التحليلات",
             description: "لوحة تحليلات في الوقت الفعلي مبنية باستخدام Vue.js و D3.js. تتميز بتصميم متجاوب وعرض البيانات بشكل ديناميكي."
+          },
+          {
+            title: "منشئ الصور المتقدم من النص",
+            description: "أداة مدعومة بالذكاء الاصطناعي لتوليد الصور من النصوص. تم بناؤها باستخدام تقنيات الويب الحديثة وتكامل الذكاء الاصطناعي."
           },
           {
             title: "نظام الحجز",
@@ -1915,4 +2067,53 @@ function updateSlidePosition() {
   }
 }
 
-prevBtn.addEventListener('click
+prevBtn.addEventListener('click', () => {
+  currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+  updateSlidePosition();
+});
+
+nextBtn.addEventListener('click', () => {
+  currentSlide = (currentSlide + 1) % slides.length;
+  updateSlidePosition();
+});
+
+// Auto advance slides every 5 seconds
+setInterval(() => {
+  currentSlide = (currentSlide + 1) % slides.length;
+  updateSlidePosition();
+}, 5000);
+
+// Initialize position
+updateSlidePosition();
+
+// Add touch support for mobile
+let touchStartX = 0;
+let touchEndX = 0;
+
+track.addEventListener('touchstart', e => {
+  touchStartX = e.changedTouches[0].screenX;
+});
+
+track.addEventListener('touchend', e => {
+  touchEndX = e.changedTouches[0].screenX;
+  handleSwipe();
+});
+
+function handleSwipe() {
+  const swipeThreshold = 50;
+  const diff = touchStartX - touchEndX;
+
+  if (Math.abs(diff) > swipeThreshold) {
+    if (diff > 0) {
+      // Swiped left
+      currentSlide = (currentSlide + 1) % slides.length;
+    } else {
+      // Swiped right
+      currentSlide = (currentSlide - 1 + slides.length) % slides.length;
+    }
+    updateSlidePosition();
+  }
+}
+</script>
+
+</body></html>
