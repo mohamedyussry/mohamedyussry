@@ -1,7 +1,16 @@
 # Hi there 👋, I'm Mohamed Yussry
 
 ## 💫 About Me
-A passionate developer focused on creating impactful solutions and WordPress plugins
+Web developer specialized in website development and WordPress plugins. My expertise includes:
+- ✨ Responsive Web Development
+- 🛒 WooCommerce Store Development
+- 🔌 Custom WordPress Plugin Creation
+- 🎨 UI/UX Design
+- 💻 Interactive Web Applications
+
+🎯 My goal is to deliver high-quality software solutions that meet client needs and enhance user experience.
+
+🌱 I'm passionate about creating impactful digital solutions and continuously learning new technologies.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedyussry)
