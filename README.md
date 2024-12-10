@@ -1,19 +1,32 @@
 # Hi there 👋, I'm Mohamed Yussry
-> Full Stack Web Developer | WordPress Expert | E-commerce Specialist
+> Senior Full Stack Developer | E-commerce Solutions Architect | WordPress Expert
 
 ## 💫 About Me
-Professional web developer with expertise in creating robust web solutions and custom WordPress plugins. My focus areas include:
-- ✨ Building responsive and user-friendly websites
-- 🛒 Developing WooCommerce-based e-commerce solutions
-- 🔌 Creating custom WordPress plugins and themes
-- 🎨 Implementing modern UI/UX designs
-- 💻 Crafting interactive web applications
+Experienced full-stack developer with over 8 years of expertise in building scalable web solutions and e-commerce platforms. I specialize in:
 
-🎯 **Mission:** To deliver high-quality, scalable solutions that drive business growth and enhance user experience.
+- 🎯 **E-commerce Development**
+  - Custom WooCommerce solutions
+  - Multi-vendor marketplaces
+  - Payment gateway integrations
+  - Inventory management systems
 
-🌱 **Growth:** Continuously learning and adapting to new technologies and best practices in web development.
+- 🔧 **Technical Skills**
+  - Full-stack web development
+  - Custom WordPress themes & plugins
+  - RESTful API development
+  - Performance optimization
 
-## 📱 Contact Me
+- 🎨 **UI/UX Focus**
+  - Responsive design implementation
+  - User experience optimization
+  - Modern interface development
+  - Mobile-first approach
+
+🌟 **Professional Philosophy:** Committed to delivering high-quality, scalable solutions that drive business growth and enhance user experience.
+
+🔄 **Continuous Growth:** Actively exploring new technologies and best practices in web development to stay at the forefront of industry trends.
+
+## 📱 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedyussry)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mohamedyussry)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammed.yussry@gmail.com)
@@ -47,17 +60,26 @@ Professional web developer with expertise in creating robust web solutions and c
 * [Al Hilal Plus](https://alhilalplus.net) - Diverse retail platform
 
 ## 💻 Tech Stack
-### Core Technologies
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### 🔥 Core Expertise
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🎨 Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Additional Skills
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### 🛠️ Development Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 📚 Additional Skills
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
 
