@@ -1,6 +1,10 @@
 # Hi there 👋, I'm Mohamed Yussry
 > Senior Full Stack Developer | E-commerce Solutions Architect | WordPress Expert
 
+[![Profile Views](https://komarev.com/ghpvc/?username=mohamedyussry&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mohamedyussry)
+[![Years Badge](https://badges.pufler.dev/years/mohamedyussry)](https://github.com/mohamedyussry)
+[![Repos Badge](https://badges.pufler.dev/repos/mohamedyussry)](https://github.com/mohamedyussry)
+
 ## 💫 About Me
 Experienced full-stack developer with over 13 years of expertise in building scalable web solutions and e-commerce platforms. I specialize in:
 
@@ -120,3 +124,9 @@ Experienced full-stack developer with over 13 years of expertise in building sca
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=mohamedyussry&icon=0&color=0" alt="Profile Views">
 </p>
+
+💼 **Available for**: Freelance Projects | Technical Consultations | Code Reviews
+
+📍 **Location**: Egypt 🇪🇬 | Available Worldwide 🌍
+
+🕒 **Timezone**: EET (UTC+2)
