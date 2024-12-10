@@ -28,21 +28,6 @@ A passionate developer focused on creating impactful solutions and WordPress plu
 ### Contributions
 * [WooCommerce](https://github.com/mohamedyussry/woocommerce) - Contributed to the WooCommerce open source project
 
-### تطوير الويب
-* [موقعي الشخصي](https://github.com/mohamedyussry/mohamedyussry) - موقع شخصي يعرض سيرتي الذاتية ومشاريعي
-* [Yussry-Portfolio](https://github.com/mohamedyussry/Yussry-Portfolio) - موقع محفظة أعمال متجاوب
-* [Yussry-Portofolio](https://github.com/mohamedyussry/Yussry-Portofolio) - نسخة محدثة من محفظة الأعمال
-* [Yussry-Portofolio-2](https://github.com/mohamedyussry/Yussry-Portofolio-2) - محفظة أعمال بتصميم حديث
-
-### تصميم وواجهات المستخدم
-* [UI-UX-Designs](https://github.com/mohamedyussry/UI-UX-Designs) - مجموعة من تصميمات واجهات المستخدم
-* [UI-UX-Design](https://github.com/mohamedyussry/UI-UX-Design) - مشروع تصميم واجهات مستخدم
-
-### أدوات وتطبيقات
-* [Yussry-Store](https://github.com/mohamedyussry/Yussry-Store) - تطبيق متجر إلكتروني
-* [Yussry-Resturant](https://github.com/mohamedyussry/Yussry-Resturant) - موقع مطعم تفاعلي
-* [Yussry-Gym](https://github.com/mohamedyussry/Yussry-Gym) - موقع لصالة رياضية
-
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=mohamedyussry&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedyussry&theme=dark&hide_border=false)
