@@ -20,11 +20,15 @@ Experienced full-stack developer with over 13 years of expertise in building sca
   - RESTful API development
   - Performance optimization
 
-- 🎨 **UI/UX Focus**
-  - Responsive design implementation
-  - User experience optimization
-  - Modern interface development
-  - Mobile-first approach
+- 🎨 **Frontend & PHP Development**
+  - PHP-based CMS customization (WordPress, Drupal)
+  - Dynamic UI with PHP & JavaScript
+  - MVC architecture implementation
+  - RESTful API integration
+  - Template engine mastery (Twig, Blade)
+  - Performance optimization
+  - Mobile-first responsive design
+  - Cross-browser compatibility
 
 🌟 **Professional Philosophy:** Committed to delivering high-quality, scalable solutions that drive business growth and enhance user experience.
 
