@@ -16,6 +16,28 @@ Web developer specialized in website development and WordPress plugins. My exper
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedyussry)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mohamedyussry)
 
+## 💼 Portfolio
+### E-commerce Websites
+* [Speroni Shoes](https://speronishoes.com) - Luxury Footwear Store
+* [Ushi AE](https://ushi-ae.com) - Fashion & Accessories
+* [Adlina Fashion](https://adlinafashion.com) - Women's Fashion Boutique
+* [Shozati](https://shozati.net) - Online Fashion Store
+* [FQ Store](https://fq-store.com) - Multi-product E-commerce
+* [Furdich AE](https://furdichae.com) - Fashion Retail
+
+### Beauty & Lifestyle
+* [Oman Beauties](https://omanbeauties.com) - Beauty & Cosmetics
+* [Jooly Beauty](https://jooolybeauty.com) - Beauty Products Store
+* [Al Areen Studio](https://alareenstudio.com) - Beauty Studio Website
+* [Photoshoot by Amna](https://photoshootbyamna.com) - Photography Portfolio
+
+### Food & Specialty Stores
+* [Zahran Al Harasi Omani Sweets](https://zahranalharasiomanisweets.com) - Traditional Sweets Store
+* [Original Sparkless](https://originalsparkless.com) - Specialty Products
+* [Mystic Garden Seeds](https://mysticgardenseeds.net) - Garden & Seeds Store
+* [Little Fox Studio](https://littlefoxstudio.net) - Creative Studio Website
+* [Al Hilal Plus](https://alhilalplus.net) - Multi-purpose Store
+
 ## 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
