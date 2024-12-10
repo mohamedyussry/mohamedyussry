@@ -85,16 +85,21 @@ Experienced full-stack developer with over 13 years of expertise in building sca
 
 ## 🚀 Open Source Projects
 
-### WordPress Plugins
+### WordPress Plugins & Extensions
 * [WhatsApp Icon](https://github.com/mohamedyussry/WhatsApp-Icon) - Customizable floating WhatsApp contact button
 * [WC Sort by Stock](https://github.com/mohamedyussry/wc-sort-by-stock) - Enhanced product sorting for WooCommerce
-* [AUTO Opencart](https://github.com/mohamedyussry/AUTO-opencart) - E-commerce automation toolkit
+* [Devices Specific Homepage](https://github.com/mohamedyussry/devices-specific-homepage-plugin-wordpress) - Custom homepage content based on user device
+* [Social Chat Icons](https://github.com/mohamedyussry/social-chat-icon-for-wordpress) - Multi-platform social chat integration
+* [Thawani for WooCommerce](https://github.com/mohamedyussry/thawani-for-woocommerce) - Thawani payment gateway integration
 
-### Web Applications
+### Web Applications & Tools
+* [Gold Price Live](https://github.com/mohamedyussry/Gold-Price-Live) - Real-time gold price tracking system
 * [Bank Elhaz Game](https://github.com/mohamedyussry/bank-elhaz-game) - Engaging web-based gaming experience
 * [Advanced Text to Image Generator](https://github.com/mohamedyussry/Advanced-Text-to-Image-Generator-free) - AI-powered image generation tool
+* [Dental Health Analysis System](https://github.com/mohamedyussry/Dental-Health-Analysis-System) - Healthcare analytics platform
 
-### Open Source Contributions
+### E-commerce Solutions
+* [AUTO Opencart](https://github.com/mohamedyussry/AUTO-opencart) - E-commerce automation toolkit
 * [WooCommerce](https://github.com/mohamedyussry/woocommerce) - Core contributor to WooCommerce platform
 
 ## 📊 GitHub Analytics
