@@ -13,6 +13,12 @@ Professional web developer with expertise in creating robust web solutions and c
 
 🌱 **Growth:** Continuously learning and adapting to new technologies and best practices in web development.
 
+## 📱 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedyussry)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mohamedyussry)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammed.yussry@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201066211527)
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedyussry)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mohamedyussry)
@@ -69,9 +75,21 @@ Professional web developer with expertise in creating robust web solutions and c
 ### Open Source Contributions
 * [WooCommerce](https://github.com/mohamedyussry/woocommerce) - Core contributor to WooCommerce platform
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mohamedyussry&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+## 📊 GitHub Analytics
+
+### 📈 Activity & Contributions
+![](https://github-readme-activity-graph.vercel.app/graph?username=mohamedyussry&theme=dark&hide_border=false&background=0F172A)
+
+### 🔥 Streak Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedyussry&theme=dark&hide_border=false)
 
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=mohamedyussry&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+### 💻 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyussry&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=mohamedyussry&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mohamedyussry&icon=0&color=0" alt="Profile Views">
+</p>
