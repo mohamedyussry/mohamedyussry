@@ -30,6 +30,40 @@ Experienced full-stack developer with over 13 years of expertise in building sca
 
 🔄 **Continuous Growth:** Actively exploring new technologies and best practices in web development to stay at the forefront of industry trends.
 
+## 💼 Work Experience
+
+### 🏢 Sada Technology & Information
+**Web Project Manager** _(Full Time)_  
+📅 December 2020 - Present _(4 years)_
+- Managing and overseeing web development projects
+- Leading technical teams and ensuring project delivery
+- Implementing best practices and quality standards
+- Client consultation and requirement analysis
+
+### 🌟 Galaxy Technology Corporation
+**Web Developer & IT Manager** _(Full Time)_  
+📅 January 2017 - August 2018 _(1 year, 7 months)_
+- Full-stack web development
+- IT infrastructure management
+- Team leadership and technical guidance
+- System architecture and optimization
+
+### 💻 Digital Precision Technology
+**Website & Mobile Apps Developer** _(Full Time)_  
+📅 January 2016 - January 2017 _(1 year)_
+- Web application development
+- Mobile app development
+- Cross-platform solutions
+- Technical documentation
+
+### 🚀 Hijran Technology
+**Senior Web Developer** _(Full Time)_  
+📅 January 2014 - Present _(10 years, 11 months)_
+- Custom web solutions development
+- E-commerce platform implementation
+- Performance optimization
+- Technical consultation
+
 ## 📱 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedyussry)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mohamedyussry)
