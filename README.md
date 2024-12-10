@@ -30,6 +30,16 @@ Experienced full-stack developer with over 13 years of expertise in building sca
   - Mobile-first responsive design
   - Cross-browser compatibility
 
+  - 🛠️ **Backend Development**
+  - PHP/MySQL architecture design
+  - Database optimization & scaling
+  - RESTful API development
+  - Payment gateway integration
+  - Server-side caching
+  - Security implementation
+  - OAuth & JWT authentication
+  - Microservices architecture
+
 🌟 **Professional Philosophy:** Committed to delivering high-quality, scalable solutions that drive business growth and enhance user experience.
 
 🔄 **Continuous Growth:** Actively exploring new technologies and best practices in web development to stay at the forefront of industry trends.
