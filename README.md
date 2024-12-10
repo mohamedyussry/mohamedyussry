@@ -2,7 +2,7 @@
 > Senior Full Stack Developer | E-commerce Solutions Architect | WordPress Expert
 
 ## 💫 About Me
-Experienced full-stack developer with over 8 years of expertise in building scalable web solutions and e-commerce platforms. I specialize in:
+Experienced full-stack developer with over 13 years of expertise in building scalable web solutions and e-commerce platforms. I specialize in:
 
 - 🎯 **E-commerce Development**
   - Custom WooCommerce solutions
