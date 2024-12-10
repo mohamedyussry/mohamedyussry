@@ -17,6 +17,7 @@ Web developer specialized in website development and WordPress plugins. My exper
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mohamedyussry)
 
 ## 💼 Portfolio
+
 ### E-commerce Websites
 * [Speroni Shoes](https://speronishoes.com) - Luxury Footwear Store
 * [Ushi AE](https://ushi-ae.com) - Fashion & Accessories
@@ -48,12 +49,10 @@ Web developer specialized in website development and WordPress plugins. My exper
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
 
-
-
 ## 🚀 My Projects
 
 ### WordPress Plugins
-* [WhatsApp Icon](https://github.com/mohamedyussry/WhatsApp-Icon) - A WordPress plugin that adds a floating WhatsApp icon with customizable settings
+* [WhatsApp Icon](https://github.com/mohamedyussry/WhatsApp-Icon) - WordPress plugin that adds a floating WhatsApp icon with customizable settings
 * [WC Sort by Stock](https://github.com/mohamedyussry/wc-sort-by-stock) - WooCommerce plugin for sorting products by stock status
 * [AUTO Opencart](https://github.com/mohamedyussry/AUTO-opencart) - Automation tools for OpenCart e-commerce platform
 
@@ -61,7 +60,7 @@ Web developer specialized in website development and WordPress plugins. My exper
 * [Bank Elhaz Game](https://github.com/mohamedyussry/bank-elhaz-game) - Interactive web-based game
 * [Advanced Text to Image Generator](https://github.com/mohamedyussry/Advanced-Text-to-Image-Generator-free) - Web application for generating images from text descriptions
 
-### Contributions
+### Open Source Contributions
 * [WooCommerce](https://github.com/mohamedyussry/woocommerce) - Contributed to the WooCommerce open source project
 
 ## 📊 GitHub Stats
