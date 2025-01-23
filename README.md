@@ -153,7 +153,6 @@ Experienced full-stack developer with over 13 years of expertise in building sca
 ### E-commerce Solutions
 * [AUTO Opencart](https://github.com/mohamedyussry/AUTO-opencart) - E-commerce automation toolkit
 * [WooCommerce](https://github.com/mohamedyussry/woocommerce) - Core contributor to WooCommerce platform
-* 
 * [voice controlled sales app](https://github.com/mohamedyussry/voice-controlled-sales) - Flutter app to analyze WooCommerce store sales using voice commands.
 
 ## 📊 GitHub Analytics
