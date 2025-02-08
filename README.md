@@ -100,9 +100,11 @@ Experienced full-stack developer with over 13 years of expertise in building sca
 
 ### 💄 Beauty & Lifestyle
 * [Oman Beauties](https://omanbeauties.com) - Premium beauty & cosmetics platform
+* [maiz oman](https://maiz-om.com/) - Premium beauty & cosmetics platform
 * [Jooly Beauty](https://jooolybeauty.com) - Curated beauty products marketplace
 * [Al Areen Studio](https://alareenstudio.com) - Professional beauty services showcase
 * [Photoshoot by Amna](https://photoshootbyamna.com) - Creative photography portfolio
+
 
 ### 🍰 Specialty & Retail
 * [Zahran Al Harasi Omani Sweets](https://zahranalharasiomanisweets.com) - Authentic Omani sweets store
