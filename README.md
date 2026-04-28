@@ -3,7 +3,7 @@
 
   <p>
     <a href="https://github.com/mohamedyussry"><img src="https://komarev.com/ghpvc/?username=mohamedyussry&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"></a>
-    <a href="https://github.com/mohamedyussry"><img src="https://img.shields.io/badge/Experience-13%2B%20Years-blue?style=for-the-badge" alt="Experience"></a>
+    <a href="https://github.com/mohamedyussry"><img src="https://img.shields.io/badge/Experience-20%2B%20Years-blue?style=for-the-badge" alt="Experience"></a>
     <a href="https://github.com/mohamedyussry"><img src="https://badges.pufler.dev/repos/mohamedyussry?style=for-the-badge" alt="Repos"></a>
   </p>
 
@@ -29,11 +29,22 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,wordpress,js,mysql,html,css,jquery,bootstrap,git,vscode,postman,nodejs,flutter&perline=7" />
-  </a>
-</p>
+<div align="center">
+  <h4>Frontend Development</h4>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap,jquery&perline=15" /></a>
+  <br><br>
+  <h4>Backend Development</h4>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,nodejs,py,java,cs,go,ruby,rust,c,cpp&perline=15" /></a>
+  <br><br>
+  <h4>Databases & Cloud</h4>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,aws,gcp,azure&perline=15" /></a>
+  <br><br>
+  <h4>AI & Machine Learning</h4>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py,r,matlab&perline=15" /></a>
+  <br><br>
+  <h4>Tools, Mobile & DevOps</h4>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vscode,postman,flutter,dart,swift,kotlin&perline=15" /></a>
+</div>
 
 <br/>
 
