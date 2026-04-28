@@ -1,106 +1,118 @@
+<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Mohamed%20Yussry&fontSize=70&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20%7C%20E-commerce%20Solutions%20Architect&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mohamed%20Yussry&fontSize=80&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20E-Commerce%20Architect&descAlignY=55&descAlign=62&animation=twinkling" />
+</div>
 
-  <p>
-    <a href="https://github.com/mohamedyussry"><img src="https://komarev.com/ghpvc/?username=mohamedyussry&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"></a>
-    <a href="https://github.com/mohamedyussry"><img src="https://img.shields.io/badge/Experience-20%2B%20Years-blue?style=for-the-badge" alt="Experience"></a>
-    <a href="https://github.com/mohamedyussry"><img src="https://badges.pufler.dev/repos/mohamedyussry?style=for-the-badge" alt="Repos"></a>
-  </p>
-
+<div align="center">
   <a href="https://linkedin.com/in/mohamedyussry"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mohammed.yussry@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/201066211527"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://github.com/mohamedyussry"><img src="https://img.shields.io/badge/Experience-20%2B%20Years-000000?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;E-commerce+Solutions+Architect;WordPress+%26+WooCommerce+Expert;Passionate+about+Scalable+Solutions" alt="Typing SVG" />
-</div>
-
-## 💫 About Me
-> **Professional Philosophy:** Committed to delivering high-quality, scalable solutions that drive business growth and enhance user experience.
-
-- 🎯 **Specialized in:** E-commerce Development, Custom WooCommerce solutions, Multi-vendor marketplaces, Payment gateway integrations.
-- 💻 **Tech mastery:** PHP-based CMS customization (WordPress, Drupal), MVC architectures, RESTful APIs, Microservices.
-- 🔄 **Continuous Growth:** Actively exploring new technologies and best practices to stay at the forefront of industry trends.
-
-<br/>
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <h4>Frontend Development</h4>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap,jquery&perline=15" /></a>
-  <br><br>
-  <h4>Backend Development</h4>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,nodejs,py,java,cs,go,ruby,rust,c,cpp&perline=15" /></a>
-  <br><br>
-  <h4>Databases & Cloud</h4>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase,aws,gcp,azure&perline=15" /></a>
-  <br><br>
-  <h4>AI & Machine Learning</h4>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py,r,matlab&perline=15" /></a>
-  <br><br>
-  <h4>Tools, Mobile & DevOps</h4>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,vscode,postman,flutter,dart,swift,kotlin&perline=15" /></a>
-</div>
-
-<br/>
-
-## 💼 Work Experience
-
-| Role & Company | Duration | Highlights |
-| :--- | :---: | :--- |
-| **Web Project Manager**<br>🏢 *Sada Technology & Information* | Dec 2020 - Present | Managing web projects, leading technical teams, ensuring quality delivery & client consultation. |
-| **Web Developer & IT Manager**<br>🌟 *Galaxy Technology Corporation* | Jan 2017 - Aug 2018 | Full-stack development, IT infrastructure, team leadership, architecture optimization. |
-| **Website & Mobile Apps Developer**<br>💻 *Digital Precision Technology* | Jan 2016 - Jan 2017 | Web & mobile applications development, cross-platform solutions. |
-| **Senior Web Developer**<br>🚀 *Hijran Technology* | Jan 2014 - Present | Custom web solutions, E-commerce implementation, performance optimization. |
-
-<br/>
-
-## 🚀 Client Portfolio & Open Source
-
-<details>
-<summary><b>🛍️ E-commerce & Retail Portfolio</b></summary>
 <br>
 
-- [Speroni Shoes](https://speronishoes.com) | [Ushi AE](https://ushi-ae.com) | [Adlina Fashion](https://adlinafashion.com) | [Shozati](https://shozati.net) | [FQ Store](https://fq-store.com) | [Furdich AE](https://furdichae.com)
-- [Oman Beauties](https://omanbeauties.com) | [maiz oman](https://maiz-om.com/) | [Jooly Beauty](https://jooolybeauty.com) | [Al Areen Studio](https://alareenstudio.com) | [Photoshoot by Amna](https://photoshootbyamna.com)
-- [Zahran Al Harasi Sweets](https://zahranalharasiomanisweets.com) | [Original Sparkless](https://originalsparkless.com) | [Mystic Garden Seeds](https://mysticgardenseeds.net) | [Little Fox Studio](https://littlefoxstudio.net) | [Al Hilal Plus](https://alhilalplus.net)
-
-</details>
-
-<details>
-<summary><b>🔥 Featured Open Source Projects</b></summary>
-<br>
-
-- **Plugins:** [WhatsApp Icon](https://github.com/mohamedyussry/WhatsApp-Icon) | [WC Sort by Stock](https://github.com/mohamedyussry/wc-sort-by-stock) | [Devices Specific Homepage](https://github.com/mohamedyussry/devices-specific-homepage-plugin-wordpress) | [Social Chat Icons](https://github.com/mohamedyussry/social-chat-icon-for-wordpress) | [Thawani for WooCommerce](https://github.com/mohamedyussry/thawani-for-woocommerce)
-- **Apps:** [Gold Price Live](https://github.com/mohamedyussry/Gold-Price-Live) | [Bank Elhaz Game](https://github.com/mohamedyussry/bank-elhaz-game) | [Text to Image Generator](https://github.com/mohamedyussry/Advanced-Text-to-Image-Generator-free) | [Dental Health System](https://github.com/mohamedyussry/Dental-Health-Analysis-System)
-- **E-commerce Solutions:** [AUTO Opencart](https://github.com/mohamedyussry/AUTO-opencart) | [WooCommerce core](https://github.com/mohamedyussry/woocommerce) | [Voice Controlled Sales App (Flutter)](https://github.com/mohamedyussry/voice-controlled-sales)
-
-</details>
-
-<br/>
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedyussry&theme=react-dark&hide_border=true&background=0D1117" width="100%" alt="Activity Graph"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=%3E_+$+Senior+Full+Stack+Engineer;%3E_+$+Expert+in+AI+%26+Machine+Learning;%3E_+$+E-commerce+%26+WordPress+Architect;%3E_+$+Building+Scalable+Enterprise+Solutions" alt="Typing SVG" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedyussry&theme=react-dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedyussry&theme=react-dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyussry&theme=react-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
 
 ---
 
+### 👨‍💻 About Me
+
+<table align="center" width="100%" border="0">
+<tr>
+<td width="60%">
+
+> *"Transforming complex business requirements into scalable, high-performance software architectures."*
+
+I am a seasoned Software Engineer with over **20 years of experience** spanning the entire software development lifecycle. My expertise ranges from crafting pixel-perfect interfaces to architecting robust backend systems and integrating cutting-edge **Artificial Intelligence**.
+
+- 🔭 **Current Focus:** Enterprise E-commerce, SaaS Platforms, and AI-Driven Applications.
+- 💡 **Philosophy:** Write clean, maintainable code. Automate everything. Never stop learning.
+- 🌍 **Location:** Egypt (Available Worldwide)
+- 💬 **Ask me about:** System Architecture, AI Integration, Custom WordPress/WooCommerce, Performance Optimization.
+
+</td>
+<td width="40%" align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" />
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Tech Arsenal
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🌐 Frontend</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,tailwind,bootstrap&perline=5" /></a>
+    </td>
+    <td valign="top" width="33%">
+      <h3>⚙️ Backend</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,nodejs,py,java,cs,go,ruby,rust,c,cpp&perline=5" /></a>
+    </td>
+    <td valign="top" width="33%">
+      <h3>🗄️ Database & Cloud</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,aws,gcp,azure,firebase,supabase&perline=5" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🧠 AI & Data Science</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py,r,matlab&perline=5" /></a>
+    </td>
+    <td valign="top" width="33%">
+      <h3>📱 Mobile & Tools</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,react,git,github,vscode,postman,linux,windows,apple&perline=5" /></a>
+    </td>
+    <td valign="top" width="33%">
+      <h3>🚢 DevOps & Arch</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,graphql,wordpress&perline=5" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Professional Journey
+
+| Role & Company | Duration | Highlights |
+| :--- | :---: | :--- |
+| **Web Project Manager**<br>🏢 *Sada Technology & Information* | Dec 2020 - Present | Orchestrating complex web projects, leading technical teams, ensuring quality delivery & client consultation. |
+| **Web Developer & IT Manager**<br>🌟 *Galaxy Technology Corporation* | Jan 2017 - Aug 2018 | Full-stack development, IT infrastructure, team leadership, architecture optimization. |
+| **Website & Mobile Apps Developer**<br>💻 *Digital Precision Technology* | Jan 2016 - Jan 2017 | Web & mobile applications development, cross-platform solutions. |
+| **Senior Web Developer**<br>🚀 *Hijran Technology* | Jan 2014 - Present | Custom enterprise web solutions, E-commerce implementation, performance optimization. |
+
+---
+
+### 🏆 Portfolio & Open Source Highlights
+
 <div align="center">
-  <i>📍 <b>Location:</b> Egypt 🇪🇬 | Available Worldwide 🌍 &nbsp; &nbsp; 🕒 <b>Timezone:</b> EET (UTC+2)</i><br><br>
-  <b>💼 Available for: Freelance Projects | Technical Consultations | Code Reviews</b>
+
+| 🛍️ E-commerce & Retail | 🎨 Beauty, Lifestyle & Specialty | 🔥 Featured Projects & Apps |
+|:---:|:---:|:---:|
+| [Speroni Shoes](https://speronishoes.com)<br>[Ushi AE](https://ushi-ae.com)<br>[Adlina Fashion](https://adlinafashion.com)<br>[Shozati](https://shozati.net)<br>[FQ Store](https://fq-store.com)<br>[Furdich AE](https://furdichae.com) | [Oman Beauties](https://omanbeauties.com)<br>[maiz oman](https://maiz-om.com/)<br>[Jooly Beauty](https://jooolybeauty.com)<br>[Al Areen Studio](https://alareenstudio.com)<br>[Zahran Al Harasi Sweets](https://zahranalharasiomanisweets.com)<br>[Mystic Garden Seeds](https://mysticgardenseeds.net) | [WhatsApp Icon Plugin](https://github.com/mohamedyussry/WhatsApp-Icon)<br>[Devices Specific Homepage](https://github.com/mohamedyussry/devices-specific-homepage-plugin-wordpress)<br>[Gold Price Live](https://github.com/mohamedyussry/Gold-Price-Live)<br>[Advanced Text to Image Generator](https://github.com/mohamedyussry/Advanced-Text-to-Image-Generator-free)<br>[Voice Controlled Sales App](https://github.com/mohamedyussry/voice-controlled-sales)<br>[AUTO Opencart](https://github.com/mohamedyussry/AUTO-opencart) |
+
 </div>
+
+---
+
+### 📊 GitHub Activity & Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedyussry&theme=tokyonight&hide_border=true&background=00000000" width="100%" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedyussry&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedyussry&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/mohamedyussry">
+    <img src="https://komarev.com/ghpvc/?username=mohamedyussry&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+  </a>
+</p>
