@@ -1,183 +1,95 @@
-# Hi there 👋, I'm Mohamed Yussry
-> Senior Full Stack Developer | E-commerce Solutions Architect | WordPress Expert
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Mohamed%20Yussry&fontSize=70&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer%20%7C%20E-commerce%20Solutions%20Architect&descAlignY=55&descAlign=62" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mohamedyussry&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mohamedyussry)
-[![Years of Experience](https://img.shields.io/badge/Experience-13%20Years-blue?style=flat-square)](https://github.com/mohamedyussry)
-[![Repos Badge](https://badges.pufler.dev/repos/mohamedyussry)](https://github.com/mohamedyussry)
+  <p>
+    <a href="https://github.com/mohamedyussry"><img src="https://komarev.com/ghpvc/?username=mohamedyussry&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"></a>
+    <a href="https://github.com/mohamedyussry"><img src="https://img.shields.io/badge/Experience-13%2B%20Years-blue?style=for-the-badge" alt="Experience"></a>
+    <a href="https://github.com/mohamedyussry"><img src="https://badges.pufler.dev/repos/mohamedyussry?style=for-the-badge" alt="Repos"></a>
+  </p>
+
+  <a href="https://linkedin.com/in/mohamedyussry"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohammed.yussry@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/201066211527"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;E-commerce+Solutions+Architect;WordPress+%26+WooCommerce+Expert;Passionate+about+Scalable+Solutions" alt="Typing SVG" />
+</div>
 
 ## 💫 About Me
-Experienced full-stack developer with over 13 years of expertise in building scalable web solutions and e-commerce platforms. I specialize in:
+> **Professional Philosophy:** Committed to delivering high-quality, scalable solutions that drive business growth and enhance user experience.
 
-- 🎯 **E-commerce Development**
-  - Custom WooCommerce solutions
-  - Multi-vendor marketplaces
-  - Payment gateway integrations
-  - Inventory management systems
+- 🎯 **Specialized in:** E-commerce Development, Custom WooCommerce solutions, Multi-vendor marketplaces, Payment gateway integrations.
+- 💻 **Tech mastery:** PHP-based CMS customization (WordPress, Drupal), MVC architectures, RESTful APIs, Microservices.
+- 🔄 **Continuous Growth:** Actively exploring new technologies and best practices to stay at the forefront of industry trends.
 
-- 🔧 **Technical Skills**
-  - Full-stack web development
-  - Custom WordPress themes & plugins
-  - RESTful API development
-  - Performance optimization
+<br/>
 
-- 🎨 **Frontend & PHP Development**
-  - PHP-based CMS customization (WordPress, Drupal)
-  - Dynamic UI with PHP & JavaScript
-  - MVC architecture implementation
-  - RESTful API integration
-  - Template engine mastery (Twig, Blade)
-  - Performance optimization
-  - Mobile-first responsive design
-  - Cross-browser compatibility
+## 🛠️ Tech Stack & Tools
 
-  - 🛠️ **Backend Development**
-  - PHP/MySQL architecture design
-  - Database optimization & scaling
-  - RESTful API development
-  - Payment gateway integration
-  - Server-side caching
-  - Security implementation
-  - OAuth & JWT authentication
-  - Microservices architecture
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,wordpress,js,mysql,html,css,jquery,bootstrap,git,vscode,postman,nodejs,flutter&perline=7" />
+  </a>
+</p>
 
-🌟 **Professional Philosophy:** Committed to delivering high-quality, scalable solutions that drive business growth and enhance user experience.
-
-🔄 **Continuous Growth:** Actively exploring new technologies and best practices in web development to stay at the forefront of industry trends.
+<br/>
 
 ## 💼 Work Experience
 
-### 🏢 Sada Technology & Information
-**Web Project Manager** _(Full Time)_  
-📅 December 2020 - Present _(4 years)_
-- Managing and overseeing web development projects
-- Leading technical teams and ensuring project delivery
-- Implementing best practices and quality standards
-- Client consultation and requirement analysis
+| Role & Company | Duration | Highlights |
+| :--- | :---: | :--- |
+| **Web Project Manager**<br>🏢 *Sada Technology & Information* | Dec 2020 - Present | Managing web projects, leading technical teams, ensuring quality delivery & client consultation. |
+| **Web Developer & IT Manager**<br>🌟 *Galaxy Technology Corporation* | Jan 2017 - Aug 2018 | Full-stack development, IT infrastructure, team leadership, architecture optimization. |
+| **Website & Mobile Apps Developer**<br>💻 *Digital Precision Technology* | Jan 2016 - Jan 2017 | Web & mobile applications development, cross-platform solutions. |
+| **Senior Web Developer**<br>🚀 *Hijran Technology* | Jan 2014 - Present | Custom web solutions, E-commerce implementation, performance optimization. |
 
-### 🌟 Galaxy Technology Corporation
-**Web Developer & IT Manager** _(Full Time)_  
-📅 January 2017 - August 2018 _(1 year, 7 months)_
-- Full-stack web development
-- IT infrastructure management
-- Team leadership and technical guidance
-- System architecture and optimization
+<br/>
 
-### 💻 Digital Precision Technology
-**Website & Mobile Apps Developer** _(Full Time)_  
-📅 January 2016 - January 2017 _(1 year)_
-- Web application development
-- Mobile app development
-- Cross-platform solutions
-- Technical documentation
+## 🚀 Client Portfolio & Open Source
 
-### 🚀 Hijran Technology
-**Senior Web Developer** _(Full Time)_  
-📅 January 2014 - Present _(10 years, 11 months)_
-- Custom web solutions development
-- E-commerce platform implementation
-- Performance optimization
-- Technical consultation
+<details>
+<summary><b>🛍️ E-commerce & Retail Portfolio</b></summary>
+<br>
 
-## 📱 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedyussry)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mohamedyussry)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammed.yussry@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201066211527)
+- [Speroni Shoes](https://speronishoes.com) | [Ushi AE](https://ushi-ae.com) | [Adlina Fashion](https://adlinafashion.com) | [Shozati](https://shozati.net) | [FQ Store](https://fq-store.com) | [Furdich AE](https://furdichae.com)
+- [Oman Beauties](https://omanbeauties.com) | [maiz oman](https://maiz-om.com/) | [Jooly Beauty](https://jooolybeauty.com) | [Al Areen Studio](https://alareenstudio.com) | [Photoshoot by Amna](https://photoshootbyamna.com)
+- [Zahran Al Harasi Sweets](https://zahranalharasiomanisweets.com) | [Original Sparkless](https://originalsparkless.com) | [Mystic Garden Seeds](https://mysticgardenseeds.net) | [Little Fox Studio](https://littlefoxstudio.net) | [Al Hilal Plus](https://alhilalplus.net)
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedyussry)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mohamedyussry)
+</details>
 
-## 💼 Client Portfolio
+<details>
+<summary><b>🔥 Featured Open Source Projects</b></summary>
+<br>
 
-### 🛍️ E-commerce Websites
-* [Speroni Shoes](https://speronishoes.com) - Premium footwear e-commerce platform
-* [Ushi AE](https://ushi-ae.com) - Contemporary fashion & accessories store
-* [Adlina Fashion](https://adlinafashion.com) - Exclusive women's fashion boutique
-* [Shozati](https://shozati.net) - Modern fashion retail platform
-* [FQ Store](https://fq-store.com) - Multi-vendor marketplace
-* [Furdich AE](https://furdichae.com) - Trendy fashion retail destination
+- **Plugins:** [WhatsApp Icon](https://github.com/mohamedyussry/WhatsApp-Icon) | [WC Sort by Stock](https://github.com/mohamedyussry/wc-sort-by-stock) | [Devices Specific Homepage](https://github.com/mohamedyussry/devices-specific-homepage-plugin-wordpress) | [Social Chat Icons](https://github.com/mohamedyussry/social-chat-icon-for-wordpress) | [Thawani for WooCommerce](https://github.com/mohamedyussry/thawani-for-woocommerce)
+- **Apps:** [Gold Price Live](https://github.com/mohamedyussry/Gold-Price-Live) | [Bank Elhaz Game](https://github.com/mohamedyussry/bank-elhaz-game) | [Text to Image Generator](https://github.com/mohamedyussry/Advanced-Text-to-Image-Generator-free) | [Dental Health System](https://github.com/mohamedyussry/Dental-Health-Analysis-System)
+- **E-commerce Solutions:** [AUTO Opencart](https://github.com/mohamedyussry/AUTO-opencart) | [WooCommerce core](https://github.com/mohamedyussry/woocommerce) | [Voice Controlled Sales App (Flutter)](https://github.com/mohamedyussry/voice-controlled-sales)
 
-### 💄 Beauty & Lifestyle
-* [Oman Beauties](https://omanbeauties.com) - Premium beauty & cosmetics platform
-* [maiz oman](https://maiz-om.com/) - Premium beauty & cosmetics platform
-* [Jooly Beauty](https://jooolybeauty.com) - Curated beauty products marketplace
-* [Al Areen Studio](https://alareenstudio.com) - Professional beauty services showcase
-* [Photoshoot by Amna](https://photoshootbyamna.com) - Creative photography portfolio
+</details>
 
-
-### 🍰 Specialty & Retail
-* [Zahran Al Harasi Omani Sweets](https://zahranalharasiomanisweets.com) - Authentic Omani sweets store
-* [Original Sparkless](https://originalsparkless.com) - Unique specialty products platform
-* [Mystic Garden Seeds](https://mysticgardenseeds.net) - Premium gardening supplies store
-* [Little Fox Studio](https://littlefoxstudio.net) - Creative design studio showcase
-* [Al Hilal Plus](https://alhilalplus.net) - Diverse retail platform
-
-## 💻 Tech Stack
-
-### 🔥 Core Expertise
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### 📚 Additional Skills
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Drupal](https://img.shields.io/badge/Drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
-
-## 🚀 Open Source Projects
-
-### WordPress Plugins & Extensions
-* [WhatsApp Icon](https://github.com/mohamedyussry/WhatsApp-Icon) - Customizable floating WhatsApp contact button
-* [WC Sort by Stock](https://github.com/mohamedyussry/wc-sort-by-stock) - Enhanced product sorting for WooCommerce
-* [Devices Specific Homepage](https://github.com/mohamedyussry/devices-specific-homepage-plugin-wordpress) - Custom homepage content based on user device
-* [Social Chat Icons](https://github.com/mohamedyussry/social-chat-icon-for-wordpress) - Multi-platform social chat integration
-* [Thawani for WooCommerce](https://github.com/mohamedyussry/thawani-for-woocommerce) - Thawani payment gateway integration
-
-### Web Applications & Tools
-* [Gold Price Live](https://github.com/mohamedyussry/Gold-Price-Live) - Real-time gold price tracking system
-* [Bank Elhaz Game](https://github.com/mohamedyussry/bank-elhaz-game) - Engaging web-based gaming experience
-* [Advanced Text to Image Generator](https://github.com/mohamedyussry/Advanced-Text-to-Image-Generator-free) - AI-powered image generation tool
-* [Dental Health Analysis System](https://github.com/mohamedyussry/Dental-Health-Analysis-System) - Healthcare analytics platform
-
-### E-commerce Solutions
-* [AUTO Opencart](https://github.com/mohamedyussry/AUTO-opencart) - E-commerce automation toolkit
-* [WooCommerce](https://github.com/mohamedyussry/woocommerce) - Core contributor to WooCommerce platform
-* [voice controlled sales app](https://github.com/mohamedyussry/voice-controlled-sales) - Flutter app to analyze WooCommerce store sales using voice commands.
+<br/>
 
 ## 📊 GitHub Analytics
 
-### 📈 Activity & Contributions
-![](https://github-readme-activity-graph.vercel.app/graph?username=mohamedyussry&theme=dark&hide_border=false&background=0F172A)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedyussry&theme=react-dark&hide_border=true&background=0D1117" width="100%" alt="Activity Graph"/>
+</div>
 
-### 🔥 Streak Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedyussry&theme=dark&hide_border=false)
-
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mohamedyussry&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-### 💻 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyussry&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mohamedyussry&icon=0&color=0" alt="Profile Views">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedyussry&theme=react-dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedyussry&theme=react-dark&hide_border=true" width="48%" />
 </p>
 
-💼 **Available for**: Freelance Projects | Technical Consultations | Code Reviews
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedyussry&theme=react-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
-📍 **Location**: Egypt 🇪🇬 | Available Worldwide 🌍
+---
 
-🕒 **Timezone**: EET (UTC+2)
+<div align="center">
+  <i>📍 <b>Location:</b> Egypt 🇪🇬 | Available Worldwide 🌍 &nbsp; &nbsp; 🕒 <b>Timezone:</b> EET (UTC+2)</i><br><br>
+  <b>💼 Available for: Freelance Projects | Technical Consultations | Code Reviews</b>
+</div>
