@@ -87,13 +87,143 @@ I am a seasoned Software Engineer with over **20 years of experience** spanning 
 
 ---
 
-### 🏆 Portfolio & Open Source Highlights
+### 🏆 Portfolio & Live Web Showcase
+
+<div align="center">
+  <p>Here are some of the active production platforms, e-commerce stores, and enterprise websites crafted and hosted:</p>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://speronishoes.com" target="_blank">
+        <img src="assets/screenshots/speronishoes.com.jpg" width="100%" alt="Speroni Shoes" /><br/>
+        <b>👞 Speroni Shoes</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://ushi-ae.com" target="_blank">
+        <img src="assets/screenshots/ushi-ae.com.jpg" width="100%" alt="Ushi AE" /><br/>
+        <b>👜 Ushi AE</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://adlinafashion.com" target="_blank">
+        <img src="assets/screenshots/adlinafashion.com.jpg" width="100%" alt="Adlina Fashion" /><br/>
+        <b>👗 Adlina Fashion</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://verducciluxury.com" target="_blank">
+        <img src="assets/screenshots/verducciluxury.com.jpg" width="100%" alt="Verducci Luxury" /><br/>
+        <b>💎 Verducci Luxury</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://omanbeauties.com" target="_blank">
+        <img src="assets/screenshots/omanbeauties.com.jpg" width="100%" alt="Oman Beauties" /><br/>
+        <b>💄 Oman Beauties</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://furdichae.com" target="_blank">
+        <img src="assets/screenshots/furdichae.com.jpg" width="100%" alt="Furdich AE" /><br/>
+        <b>✨ Furdich AE</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://eweb.ae" target="_blank">
+        <img src="assets/screenshots/eweb.ae.jpg" width="100%" alt="Eweb AI & Solutions" /><br/>
+        <b>🤖 Eweb Solutions</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://ysrly.com" target="_blank">
+        <img src="assets/screenshots/ysrly.com.jpg" width="100%" alt="Ysrly Platform" /><br/>
+        <b>⚡ Ysrly</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://94vibes.ae" target="_blank">
+        <img src="assets/screenshots/94vibes.ae.jpg" width="100%" alt="94 Vibes" /><br/>
+        <b>🎵 94 Vibes</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://jooolybeauty.com" target="_blank">
+        <img src="assets/screenshots/jooolybeauty.com.jpg" width="100%" alt="Jooly Beauty" /><br/>
+        <b>🌸 Jooly Beauty</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://aseelclicks.com" target="_blank">
+        <img src="assets/screenshots/aseelclicks.com.jpg" width="100%" alt="Aseel Clicks" /><br/>
+        <b>📸 Aseel Clicks</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://photoshootbyamna.com" target="_blank">
+        <img src="assets/screenshots/photoshootbyamna.com.jpg" width="100%" alt="Photoshoot by Amna" /><br/>
+        <b>📷 Photoshoot by Amna</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://zahranalharasiomanisweets.com" target="_blank">
+        <img src="assets/screenshots/zahranalharasiomanisweets.com.jpg" width="100%" alt="Zahran Sweets" /><br/>
+        <b>🍬 Zahran Sweets</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://jemoraperfume.ae" target="_blank">
+        <img src="assets/screenshots/jemoraperfume.ae.jpg" width="100%" alt="Jemora Perfumes" /><br/>
+        <b>🌹 Jemora Perfumes</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://naturerepublic.ae" target="_blank">
+        <img src="assets/screenshots/naturerepublic.ae.jpg" width="100%" alt="Nature Republic" /><br/>
+        <b>🌿 Nature Republic</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🔍 View More Live Client Sites & Apps (Click to expand)</b></summary>
+<br/>
+
+| Client / Brand | Domain & Link | Industry / Category |
+| :--- | :---: | :--- |
+| **Little Angel** | [littleangeluae.com](https://littleangeluae.com) | Kids & Fashion |
+| **Fawah** | [fawah-4om.com](https://fawah-4om.com) | Fragrance & Perfumes |
+| **Anfal Alkindi Studio** | [anfalalkindistudio.com](https://anfalalkindistudio.com) | Media & Photography |
+| **Souqia Noor Al Khair** | [souqianooralkhair.com](https://souqianooralkhair.com) | E-commerce / Charity |
+| **Echo Tech & ERP** | [echo.om](https://echo.om) / [echotch.com](https://echotch.com) | Enterprise & ERP Solutions |
+| **Maiz Oman** | [maiz-om.com](https://maiz-om.com) | Retail & Food |
+| **Little Fox Studio** | [littlefoxstudio.net](https://littlefoxstudio.net) | Creative Studio |
+| **Mystic Garden Seeds** | [mysticgardenseeds.net](https://mysticgardenseeds.net) | Agriculture & Retail |
+| **Nadal Hassoun** | [nadalhassoun.com](https://nadalhassoun.com) | Fashion & Lifestyle |
+| **Arab Friends** | [arab-friends.com](https://arab-friends.com) | Community Portal |
+
+</details>
+
+<br/>
 
 <div align="center">
 
-| 🛍️ E-commerce & Retail | 🎨 Beauty, Lifestyle & Specialty | 🔥 Featured Projects & Apps |
+### 🛠️ Featured Open Source Highlights
+
+| 🛍️ Plugins & Integrations | 🤖 AI & Automation | 📱 Mobile & Web Utilities |
 |:---:|:---:|:---:|
-| [Speroni Shoes](https://speronishoes.com)<br>[Ushi AE](https://ushi-ae.com)<br>[Adlina Fashion](https://adlinafashion.com)<br>[Shozati](https://shozati.net)<br>[FQ Store](https://fq-store.com)<br>[Furdich AE](https://furdichae.com) | [Oman Beauties](https://omanbeauties.com)<br>[maiz oman](https://maiz-om.com/)<br>[Jooly Beauty](https://jooolybeauty.com)<br>[Al Areen Studio](https://alareenstudio.com)<br>[Zahran Al Harasi Sweets](https://zahranalharasiomanisweets.com)<br>[Mystic Garden Seeds](https://mysticgardenseeds.net) | [WhatsApp Icon Plugin](https://github.com/mohamedyussry/WhatsApp-Icon)<br>[Devices Specific Homepage](https://github.com/mohamedyussry/devices-specific-homepage-plugin-wordpress)<br>[Gold Price Live](https://github.com/mohamedyussry/Gold-Price-Live)<br>[Advanced Text to Image Generator](https://github.com/mohamedyussry/Advanced-Text-to-Image-Generator-free)<br>[Voice Controlled Sales App](https://github.com/mohamedyussry/voice-controlled-sales)<br>[AUTO Opencart](https://github.com/mohamedyussry/AUTO-opencart) |
+| [WhatsApp Icon Plugin](https://github.com/mohamedyussry/WhatsApp-Icon)<br>[Devices Specific Homepage](https://github.com/mohamedyussry/devices-specific-homepage-plugin-wordpress)<br>[AUTO Opencart](https://github.com/mohamedyussry/AUTO-opencart) | [Advanced Text to Image Generator](https://github.com/mohamedyussry/Advanced-Text-to-Image-Generator-free)<br>[Voice Controlled Sales App](https://github.com/mohamedyussry/voice-controlled-sales)<br>[Live Virtual Try-On](https://github.com/mohamedyussry/live-virtual-tryon) | [Gold Price Live](https://github.com/mohamedyussry/Gold-Price-Live)<br>[TikTok Supporter Tower](https://github.com/mohamedyussry/tiktok-supporter-tower)<br>[Kitchens App](https://github.com/mohamedyussry/Kitchens-app) |
 
 </div>
 
