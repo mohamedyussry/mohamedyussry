@@ -18,12 +18,12 @@
 <br/>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/mohamedyussry/projects-videos/main/mohamed-yussry-intro.mp4" target="_blank">
-    <img src="assets/intro_video_preview.jpg" width="85%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" alt="Mohamed Yussry Introduction Video" />
+  <a href="https://github.com/mohamedyussry/projects-videos/blob/main/mohamed-yussry-intro.mp4" target="_blank">
+    <img src="assets/intro_preview.gif" width="85%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" alt="Mohamed Yussry Intro Video" />
   </a>
   <p align="center">
-    <a href="https://raw.githubusercontent.com/mohamedyussry/projects-videos/main/mohamed-yussry-intro.mp4">
-      <img src="https://img.shields.io/badge/▶_Watch_Intro_Video-0e75b6?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video" />
+    <a href="https://github.com/mohamedyussry/projects-videos/blob/main/mohamed-yussry-intro.mp4">
+      <img src="https://img.shields.io/badge/▶_Watch_Full_HD_Video-0e75b6?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Full HD Video" />
     </a>
   </p>
 </div>
