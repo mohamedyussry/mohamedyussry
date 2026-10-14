@@ -90,7 +90,7 @@ I am a seasoned Software Engineer with over **20 years of experience** spanning 
 ### 🏆 Portfolio & Live Web Showcase
 
 <div align="center">
-  <p>Here are some of the active production platforms, e-commerce stores, and enterprise websites crafted and hosted:</p>
+  <p>Here are active production platforms, e-commerce stores, and enterprise websites crafted and hosted:</p>
 </div>
 
 <table align="center" width="100%">
@@ -194,26 +194,67 @@ I am a seasoned Software Engineer with over **20 years of experience** spanning 
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://littleangeluae.com" target="_blank">
+        <img src="assets/screenshots/littleangeluae.com.jpg" width="100%" alt="Little Angel UAE" /><br/>
+        <b>👼 Little Angel UAE</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://fawah-4om.com" target="_blank">
+        <img src="assets/screenshots/fawah-4om.com.jpg" width="100%" alt="Fawah Perfumes" /><br/>
+        <b>🌺 Fawah Perfumes</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://anfalalkindistudio.com" target="_blank">
+        <img src="assets/screenshots/anfalalkindistudio.com.jpg" width="100%" alt="Anfal Alkindi Studio" /><br/>
+        <b>🎬 Anfal Alkindi Studio</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://souqianooralkhair.com" target="_blank">
+        <img src="assets/screenshots/souqianooralkhair.com.jpg" width="100%" alt="Souqia Noor Al Khair" /><br/>
+        <b>💧 Souqia Noor Al Khair</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://maiz-om.com" target="_blank">
+        <img src="assets/screenshots/maiz-om.com.jpg" width="100%" alt="Maiz Oman" /><br/>
+        <b>🍽️ Maiz Oman</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://littlefoxstudio.net" target="_blank">
+        <img src="assets/screenshots/littlefoxstudio.net.jpg" width="100%" alt="Little Fox Studio" /><br/>
+        <b>🦊 Little Fox Studio</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://mysticgardenseeds.net" target="_blank">
+        <img src="assets/screenshots/mysticgardenseeds.net.jpg" width="100%" alt="Mystic Garden Seeds" /><br/>
+        <b>🌱 Mystic Garden Seeds</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://nadalhassoun.com" target="_blank">
+        <img src="assets/screenshots/nadalhassoun.com.jpg" width="100%" alt="Nada Alhassoun" /><br/>
+        <b>✨ Nada Alhassoun</b>
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://echo.om" target="_blank">
+        <img src="assets/screenshots/echo.om.jpg" width="100%" alt="Echo Tech" /><br/>
+        <b>💼 Echo Tech</b>
+      </a>
+    </td>
+  </tr>
 </table>
-
-<details>
-<summary><b>🔍 View More Live Client Sites & Apps (Click to expand)</b></summary>
-<br/>
-
-| Client / Brand | Domain & Link | Industry / Category |
-| :--- | :---: | :--- |
-| **Little Angel** | [littleangeluae.com](https://littleangeluae.com) | Kids & Fashion |
-| **Fawah** | [fawah-4om.com](https://fawah-4om.com) | Fragrance & Perfumes |
-| **Anfal Alkindi Studio** | [anfalalkindistudio.com](https://anfalalkindistudio.com) | Media & Photography |
-| **Souqia Noor Al Khair** | [souqianooralkhair.com](https://souqianooralkhair.com) | E-commerce / Charity |
-| **Echo Tech & ERP** | [echo.om](https://echo.om) / [echotch.com](https://echotch.com) | Enterprise & ERP Solutions |
-| **Maiz Oman** | [maiz-om.com](https://maiz-om.com) | Retail & Food |
-| **Little Fox Studio** | [littlefoxstudio.net](https://littlefoxstudio.net) | Creative Studio |
-| **Mystic Garden Seeds** | [mysticgardenseeds.net](https://mysticgardenseeds.net) | Agriculture & Retail |
-| **Nadal Hassoun** | [nadalhassoun.com](https://nadalhassoun.com) | Fashion & Lifestyle |
-| **Arab Friends** | [arab-friends.com](https://arab-friends.com) | Community Portal |
-
-</details>
 
 <br/>
 
