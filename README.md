@@ -15,19 +15,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=%3E_+$+Senior+Full+Stack+Engineer;%3E_+$+Expert+in+AI+%26+Machine+Learning;%3E_+$+E-commerce+%26+WordPress+Architect;%3E_+$+Building+Scalable+Enterprise+Solutions" alt="Typing SVG" />
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/mohamedyussry/projects-videos/blob/main/mohamed-yussry-intro.mp4" target="_blank">
-    <img src="assets/intro_preview.gif" width="85%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" alt="Mohamed Yussry Intro Video" />
-  </a>
-  <p align="center">
-    <a href="https://github.com/mohamedyussry/projects-videos/blob/main/mohamed-yussry-intro.mp4">
-      <img src="https://img.shields.io/badge/▶_Watch_Full_HD_Video-0e75b6?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Full HD Video" />
-    </a>
-  </p>
-</div>
-
 ---
 
 ### 👨‍💻 About Me
@@ -104,7 +91,20 @@ I am a seasoned Software Engineer with over **20 years of experience** spanning 
 
 <div align="center">
   <p>Here are active production platforms, e-commerce stores, and enterprise websites crafted and hosted:</p>
+  
+  <br/>
+  
+  <a href="https://raw.githubusercontent.com/mohamedyussry/projects-videos/main/mohamed-yussry-intro.mp4" target="_blank">
+    <img src="assets/intro_video_preview.jpg" width="90%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" alt="Mohamed Yussry Portfolio Presentation Video" />
+  </a>
+  <p align="center">
+    <a href="https://raw.githubusercontent.com/mohamedyussry/projects-videos/main/mohamed-yussry-intro.mp4">
+      <img src="https://img.shields.io/badge/▶_Watch_Portfolio_Video-0e75b6?style=for-the-badge&logo=youtube&logoColor=white" alt="Play Video" />
+    </a>
+  </p>
 </div>
+
+<br/>
 
 <table align="center" width="100%">
   <tr>
